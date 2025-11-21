@@ -76,7 +76,7 @@ Cross-platform chat app with REST APIs, state management via Context API, pull-t
 Modern Pokédex with load-more pagination and custom utility CSS.  
 ➡ https://github.com/tanmaymaity6/load-more-pokemons
 
-### 🔹 **Cryosphere Products Platform (UW–Madison)**  
+### 🔹 **Products Platform (UW–Madison)**  
 React/Tailwind dashboard for scientific product visualization with accessible UI.  
 ➡ *Add repo if public / demo*
 
@@ -107,8 +107,8 @@ GPA: **3.5 / 4.0**
 ## 📫 Connect With Me
 
 - **Email:** maitytanmay@outlook.com  
-- **LinkedIn:** *Add your profile link*  
-- **Portfolio:** *Add later when ready*  
+- **LinkedIn:** https://www.linkedin.com/in/tanmay-maity/ 
+- **Portfolio:** https://tanmaydev.netlify.app/ 
 
 ---
 
