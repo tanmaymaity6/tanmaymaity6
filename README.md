@@ -1,113 +1,115 @@
-Hi, I'm Tanmay Maity 👋
-Software Engineer | React | TypeScript | Angular | UI Engineering 
+# 👋 Hi, I'm Tanmay Maity  
+### Software Engineer | React.js | Next.js | TypeScript | Angular | MERN | MEAN | Tailwind | Python
 
-🚀 Passionate about building clean, scalable, accessible, and high-performance UI applications.
-💼 Currently working as a Frontend Developer at UW Madison.
-🌎 Based in the United States
-📚 Ex-Accenture, experienced in international cross-functional development teams
-🎯 Expert in React, TypeScript, Angular, Zustand, React Query, Ant Design, OCR workflows, and modern FE architecture
+I’m a Software Engineer with **4+ years of experience** building scalable, modern, and accessible web applications using **React, Next.js 14, TypeScript, Tailwind, Node.js**, and cloud technologies. I specialize in **frontend engineering**, **UI performance**, and **data-driven dashboards**, and I leverage **AI tools (Copilot, Cursor)** to accelerate development.
 
-🚀 Skills & Technologies
-Front-End
+Currently working as a **Frontend Developer** on high-impact scientific visualization tools.
 
-React
-Angular
-TypeScript
-JavaScript (ES6+)
-HTML5 / CSS3
-Zustand
-React Query
-Redux
-Tailwind / Ant Design / MUI
-Vite / Webpack
-Backend & APIs
-Node.js
-Express
-GraphQL
-REST APIs
-Cloud / DevOps
-AWS Lambda
-S3
-CloudFront
-RDS
-DynamoDB
+---
 
-Tools
+## 🛠 Tech Stack & Skills
 
-Git, GitHub
+### **Frontend**
+- React.js, Next.js 14 App Router  
+- JavaScript (ES6+), TypeScript  
+- Tailwind CSS, Material UI, Bootstrap  
+- React Native, Expo  
+- State Management: Redux, Context API  
+- Component Libraries, Accessible UI (ARIA, WCAG)
 
-Jira
+### **Backend & Databases**
+- Node.js, Express  
+- MongoDB, MySQL, PostgreSQL  
+- REST APIs, GraphQL
 
-Figma
+### **Cloud & DevOps**
+- AWS Amplify, AWS Lambda, S3, CloudFront  
+- Docker, Jenkins, GitHub Actions  
+- MS Azure, Linux/Apache deployments
 
-Postman
+### **Tools & Testing**
+- Git, GitHub, Jira, Figma  
+- Jest, React Testing Library, Cypress  
+- Vite, Webpack, Babel
 
-VSCode
+---
 
-💼 Professional Experience
-Senior UI Developer — MTM Inc.
+## 💼 Professional Experience
 
-2023 – Present
+### **Frontend Developer – UW–Madison**  
+*Jun 2024 – Present | Madison, WI, USA*  
+- Built a **scientific data Products Platform** using React + Tailwind for cryosphere visualization (WCAG/ARIA accessible).  
+- Reduced image retrieval time by **15%** by optimizing MySQL queries for 15+ scientific datasets.  
+- Migrated a legacy PHP system to a **custom WordPress-compatible Theme**, improving UX for 10+ international orgs.  
+- Automated 6-hour image sync pipeline using Python to enable near real-time visualization.  
+- Built custom plugins, filters, and a downloadable asset module with extensive end-to-end testing.  
+- Used Copilot/Cursor to speed up development and reduce boilerplate by **30%**.
 
-Lead UI development for the Mobility Direct (MD) web app used by internal agencies & external clients.
+---
 
-Built complex OCR-based document workflows, scanned document logic, and automatic form mapping.
+### **Senior Software Engineer – Accenture**  
+*Jun 2021 – Jul 2023 | Mumbai, IN*  
+- Built **Next.js 14** App Router dashboards with TypeScript, Material UI, and MongoDB.  
+- Created **interactive data dashboards** using MUI X-Data-Grid + Recharts for big datasets.  
+- Implemented real-time order tracking using **WebSocket + JWT authentication**.  
+- Improved code quality: **75% test coverage**, eliminated **95%** lint errors.  
+- Developed a scalable Comments microservice (React + Node) improving engagement by **40%** and reducing API response time by **25%**.
 
-Implemented components using React, TS, Zustand, React Query, AntD, and custom MTM component library.
+---
 
-Collaborated with backend (.NET + AWS Lambda) teams on key endpoints and API contract standardization.
+### **Software Engineer – Rabi Industries**  
+*Jun 2020 – May 2021 | Mumbai, IN*  
+- Built 10+ React screens for Yum Brands’ supply chain workflows using Redux + REST APIs.  
+- Delivered a **Category Planning Module** in React + Tailwind + AWS reducing cycle time by 50% and increasing revenue by $2M annually.  
+- Built an Admin Configuration Tool (React + Node + PostgreSQL) improving customization by **25%**.  
+- Integrated Tableau JS APIs enabling advanced data blending & visualization features.
 
-Integrated AWS services like S3, Lambda, DynamoDB, and RDS for document processing microservices.
+---
 
-Refactored major state management modules to reduce re-renders and improve DX.
+## 🚀 Featured Projects
 
-Front-End Developer — Accenture
+### 🔹 **BadgerChat (React Native + Expo)**  
+Cross-platform chat app with REST APIs, state management via Context API, pull-to-refresh, and smooth navigation.  
+➡ *Add GitHub Repo Link*
 
-2020 – 2022
+### 🔹 **Pokédex – Load More Pokémon (React + Vite)**  
+Modern Pokédex with load-more pagination and custom utility CSS.  
+➡ https://github.com/tanmaymaity6/load-more-pokemons
 
-Built enterprise-scale UI modules for Fortune 500 clients.
+### 🔹 **Cryosphere Products Platform (UW–Madison)**  
+React/Tailwind dashboard for scientific product visualization with accessible UI.  
+➡ *Add repo if public / demo*
 
-Worked with React, Angular, and micro-frontend patterns.
+---
 
-Delivered UI components with accessibility, global theming, and multi-language support.
+## 🎓 Education
 
-Collaborated with globally distributed teams (U.S., India, Philippines).
+**M.S. Information Science — University of Wisconsin–Madison** (2023–2025)  
+GPA: **3.8 / 4.0**  
+Cloud Tech • DB Design • Project Management • Web Development
 
-🧩 Featured Projects
-🔹 Pokédex – Load More Pokémon (React + Vite)
+**B.E. Computer Science — University of Mumbai**  
+GPA: **3.5 / 4.0**
 
-➡ Live Demo: Add your StackBlitz link
-➡ Repo: https://github.com/tanmaymaity6/load-more-pokemons
+---
 
-Custom utility CSS instead of Tailwind
+## 📊 GitHub Stats
 
-PokéAPI integration
-
-Load More pagination
-
-Grid layout
-
-Optimized fetch logic with duplicate protection
-
-🔹 OCR Document Workflow (Private/Work Project)
-
-➡ UI Architecture & Lead Developer
-
-Built MD Scan document workflow including OCR mapping, auto-populate, applicant sync, etc.
-
-Advanced state management using Zustand
-
-Form type mapping + validation + applicant lookup
-
-(Describe more projects you want to highlight)
-
-🛠️ GitHub Statistics
 <div align="center">
 
+![Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact&theme=radical)
+
 </div>
-📫 Contact Me
 
-📧 Email: your-email
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+---
 
-🌐 Portfolio Website: Add later if you want
+## 📫 Connect With Me
+
+- **Email:** maitytanmay@outlook.com  
+- **LinkedIn:** *Add your profile link*  
+- **Portfolio:** *Add later when ready*  
+
+---
+
+⭐ *Thanks for visiting my GitHub profile!*  
