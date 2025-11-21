@@ -70,7 +70,7 @@ Currently working as a **Frontend Developer** on high-impact scientific visualiz
 
 ### 🔹 **BadgerChat (React Native + Expo)**  
 Cross-platform chat app with REST APIs, state management via Context API, pull-to-refresh, and smooth navigation.  
-➡ *Add GitHub Repo Link*
+➡ 
 
 ### 🔹 **Pokédex – Load More Pokémon (React + Vite)**  
 Modern Pokédex with load-more pagination and custom utility CSS.  
@@ -78,7 +78,7 @@ Modern Pokédex with load-more pagination and custom utility CSS.
 
 ### 🔹 **Products Platform (UW–Madison)**  
 React/Tailwind dashboard for scientific product visualization with accessible UI.  
-➡ *Add repo if public / demo*
+➡ 
 
 ---
 
