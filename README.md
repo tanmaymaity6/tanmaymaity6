@@ -68,6 +68,13 @@ Currently working as a **Frontend Developer** on high-impact scientific visualiz
 
 ## 🚀 Featured Projects
 
+
+### 🔹 **Admin React Dashboard UI (React + Typescript + Tailwind + Chart.js)**  
+A modern, responsive admin dashboard UI built with React, TailwindCSS, reusable components, sidebar navigation, charts, and dark mode support.
+➡ https://admin-react-dash.netlify.app/
+➡ Repo: https://github.com/tanmaymaity6/react-admin-dashboard-ui
+
+
 ### 🔹 **BadgerChat (React Native + Expo)**  
 Cross-platform chat app with REST APIs, state management via Context API, pull-to-refresh, and smooth navigation.  
 ➡ 
@@ -76,9 +83,6 @@ Cross-platform chat app with REST APIs, state management via Context API, pull-t
 Modern Pokédex with load-more pagination and custom utility CSS.  
 ➡ https://github.com/tanmaymaity6/load-more-pokemons
 
-### 🔹 **Products Platform (UW–Madison)**  
-React/Tailwind dashboard for scientific product visualization with accessible UI.  
-➡ 
 
 ---
 
