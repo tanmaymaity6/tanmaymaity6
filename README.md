@@ -72,7 +72,6 @@ Currently working as a **Frontend Developer** on high-impact scientific visualiz
 ### 🔹 **Admin React Dashboard UI (React + Typescript + Tailwind + Chart.js)**  
 A modern, responsive admin dashboard UI built with React, TailwindCSS, reusable components, sidebar navigation, charts, and dark mode support.
 ➡ https://admin-react-dash.netlify.app/
-➡ Repo: https://github.com/tanmaymaity6/react-admin-dashboard-ui
 
 
 ### 🔹 **BadgerChat (React Native + Expo)**  
