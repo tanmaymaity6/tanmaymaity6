@@ -98,10 +98,11 @@ GPA: **3.5 / 4.0**
 
 ## 📊 GitHub Stats
 
-
+<div align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true&theme=radical&rank_icon=github)
-
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact&theme=radical)
+</div>
+
 
 
 ---
