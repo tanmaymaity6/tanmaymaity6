@@ -74,9 +74,9 @@ A modern, responsive admin dashboard UI built with React, TailwindCSS, reusable 
 ➡ https://admin-react-dash.netlify.app/
 
 
-### 🔹 **BadgerChat (React Native + Expo)**  
-Cross-platform chat app with REST APIs, state management via Context API, pull-to-refresh, and smooth navigation.  
-➡ 
+### 🔹 ** AI Event Organiser **  
+A full-stack event creation and discovery platform built with Next.js, Convex, Clerk Auth, Shadcn UI, Tailwind, and Gemini AI.
+➡ https://ai-spott.netlify.app/
 
 ### 🔹 **Pokédex – Load More Pokémon (React + Vite)**  
 Modern Pokédex with load-more pagination and custom utility CSS.  
@@ -111,7 +111,7 @@ GPA: **3.5 / 4.0**
 
 - **Email:** maitytanmay@outlook.com  
 - **LinkedIn:** https://www.linkedin.com/in/tanmay-maity/ 
-- **Portfolio:** https://tanmaydev.netlify.app/ 
+- **Portfolio:** https://https://github.com/tanmaymaity6/ 
 
 ---
 
