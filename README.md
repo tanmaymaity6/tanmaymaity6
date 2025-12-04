@@ -100,8 +100,10 @@ GPA: **3.5 / 4.0**
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanmaymaity6&show_icons=true&theme=radical)
+
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact&theme=radical)
+
 
 </div>
 
