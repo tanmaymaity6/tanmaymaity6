@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Tanmay Maity  
-### Software Engineer | React.js | Next.js | TypeScript | Angular | MERN | MEAN | Tailwind | Python
+### Software Engineer | React.js | Next.js | TypeScript | Angular | JavaScript | MERN | MEAN | Tailwind | Python
 
 I’m a Software Engineer with **4+ years of experience** building scalable, modern, and accessible web applications using **React, Next.js 14, TypeScript, Tailwind, Node.js**, and cloud technologies. I specialize in **frontend engineering**, **UI performance**, and **data-driven dashboards**, and I leverage **AI tools (Copilot, Cursor)** to accelerate development.
 
