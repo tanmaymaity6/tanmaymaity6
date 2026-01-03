@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanmay Maity  
 ### Software Engineer | React.js | Next.js | TypeScript | Angular | JavaScript | MERN | MEAN | Tailwind | Python
 
-I’m a Software Engineer with **4+ years of experience** building scalable, modern, and accessible web applications using **React, Next.js 14, TypeScript, Tailwind, Node.js**, and cloud technologies. I specialize in **frontend engineering**, **UI performance**, and **data-driven dashboards**, and I leverage **AI tools (Copilot, Cursor)** to accelerate development.
+I’m a Software Engineer with **5 years of experience** building scalable, modern, and accessible web applications using **React, Next.js 14, TypeScript, Tailwind, Node.js**, and cloud technologies. I specialize in **frontend engineering**, **UI performance**, and **data-driven dashboards**, and I leverage **AI tools (Copilot, Cursor)** to accelerate development.
 
 Currently working as a **Frontend Developer** on high-impact scientific visualization tools.
 
@@ -58,7 +58,7 @@ Currently working as a **Frontend Developer** on high-impact scientific visualiz
 ---
 
 ### **Software Engineer – Rabi Industries**  
-*Jun 2020 – May 2021 | Mumbai, IN*  
+*Jan 2020 – May 2021 | Mumbai, IN*  
 - Built 10+ React screens for Yum Brands’ supply chain workflows using Redux + REST APIs.  
 - Delivered a **Category Planning Module** in React + Tailwind + AWS reducing cycle time by 50% and increasing revenue by $2M annually.  
 - Built an Admin Configuration Tool (React + Node + PostgreSQL) improving customization by **25%**.  
