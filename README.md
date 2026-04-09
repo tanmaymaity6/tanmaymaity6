@@ -1,118 +1,142 @@
-# 👋 Hi, I'm Tanmay Maity  
-### Software Engineer | React.js | Next.js | TypeScript | Angular | JavaScript | MERN | MEAN | Tailwind | Python
+# Hi, I'm Tanmay Maity 👋
 
-I’m a Software Engineer with **5 years of experience** building scalable, modern, and accessible web applications using **React, Next.js 14, TypeScript, Tailwind, Node.js**, and cloud technologies. I specialize in **frontend engineering**, **UI performance**, and **data-driven dashboards**, and I leverage **AI tools (Copilot, Cursor)** to accelerate development.
+### Full Stack Developer | React.js | Next.js | TypeScript | Node.js | AWS | Azure | Docker
 
-Currently working as a **Frontend Developer** on high-impact scientific visualization tools.
-
----
-
-## 🛠 Tech Stack & Skills
-
-### **Frontend**
-- React.js, Next.js 14 App Router  
-- JavaScript (ES6+), TypeScript  
-- Tailwind CSS, Material UI, Bootstrap  
-- React Native, Expo  
-- State Management: Redux, Context API  
-- Component Libraries, Accessible UI (ARIA, WCAG)
-
-### **Backend & Databases**
-- Node.js, Express  
-- MongoDB, MySQL, PostgreSQL  
-- REST APIs, GraphQL
-
-### **Cloud & DevOps**
-- AWS Amplify, AWS Lambda, S3, CloudFront  
-- Docker, Jenkins, GitHub Actions  
-- MS Azure, Linux/Apache deployments
-
-### **Tools & Testing**
-- Git, GitHub, Jira, Figma  
-- Jest, React Testing Library, Cypress  
-- Vite, Webpack, Babel
+Full Stack Developer with 4+ years of experience building enterprise-grade, cloud-native platforms using React.js, Next.js, TypeScript, and Node.js. I build secure REST APIs, real-time systems with WebSockets, and Docker-containerized applications with CI/CD automation. I have hands-on experience deploying across AWS and Azure, modernizing legacy systems, improving reliability, and delivering scalable applications for high-traffic environments.
 
 ---
 
-## 💼 Professional Experience
+## About Me
 
-### **Frontend Developer – UW–Madison**  
-*Jun 2024 – Present | Madison, WI, USA*  
-- Built a **scientific data Products Platform** using React + Tailwind for cryosphere visualization (WCAG/ARIA accessible).  
-- Reduced image retrieval time by **15%** by optimizing MySQL queries for 15+ scientific datasets.  
-- Migrated a legacy PHP system to a **custom WordPress-compatible Theme**, improving UX for 10+ international orgs.  
-- Automated 6-hour image sync pipeline using Python to enable near real-time visualization.  
-- Built custom plugins, filters, and a downloadable asset module with extensive end-to-end testing.  
-- Used Copilot/Cursor to speed up development and reduce boilerplate by **30%**.
+- Full Stack Developer with strong frontend and backend experience
+- Skilled in building scalable web applications and cloud-native systems
+- Experienced with AWS, Azure, Docker, Jenkins, and GitHub Actions
+- Focused on performance, clean architecture, security, and maintainable code
+- Passionate about modern web development, system design, and shipping production-ready solutions
 
 ---
 
-### **Senior Software Engineer – Accenture**  
-*Jun 2021 – Jul 2023 | Mumbai, IN*  
-- Built **Next.js 14** App Router dashboards with TypeScript, Material UI, and MongoDB.  
-- Created **interactive data dashboards** using MUI X-Data-Grid + Recharts for big datasets.  
-- Implemented real-time order tracking using **WebSocket + JWT authentication**.  
-- Improved code quality: **75% test coverage**, eliminated **95%** lint errors.  
-- Developed a scalable Comments microservice (React + Node) improving engagement by **40%** and reducing API response time by **25%**.
+## Tech Stack
+
+### Languages
+- JavaScript (ES6+)
+- TypeScript
+- Node.js
+- Python
+- SQL
+- Java
+
+### Frontend
+- React.js
+- Next.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Redux
+- Context API
+
+### Backend
+- Node.js
+- Express.js
+- Spring Boot
+- Hibernate
+- REST APIs
+- WebSockets
+- JWT Authentication
+
+### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- MS SQL Server
+
+### Cloud & DevOps
+- AWS (Amplify, EC2, S3, Lambda, API Gateway)
+- Azure (App Services, Functions, Blob Storage)
+- Docker
+- Jenkins
+- GitHub Actions
+
+### Testing & Tools
+- Jest
+- React Testing Library
+- Cypress
+- Git
+- Jira
+- Webpack
+- Vite
+- NPM
+- Yarn
 
 ---
 
-### **Software Engineer – Rabi Industries**  
-*Jan 2020 – May 2021 | Mumbai, IN*  
-- Built 10+ React screens for Yum Brands’ supply chain workflows using Redux + REST APIs.  
-- Delivered a **Category Planning Module** in React + Tailwind + AWS reducing cycle time by 50% and increasing revenue by $2M annually.  
-- Built an Admin Configuration Tool (React + Node + PostgreSQL) improving customization by **25%**.  
-- Integrated Tableau JS APIs enabling advanced data blending & visualization features.
+## Professional Experience
+
+### Full Stack Software Engineer — JPMorgan Chase & Co.
+**August 2025 – Present | USA**
+
+- Designed and deployed full-stack cloud-native applications using React.js, Node.js, TypeScript, and AWS for a Wealth Management CRM platform serving 12,000+ concurrent users
+- Modernized 4 legacy systems by leading work across architecture, development, testing, deployment, and production support
+- Improved platform reliability by 42% through monitoring, alerting, and observability improvements
+- Automated CI/CD pipelines using Jenkins and GitHub Actions, accelerating release cycles by 48%
+- Built proof-of-concepts for secure authentication and data encryption, helping reduce security incidents
+- Containerized frontend and backend services with Docker, improving portability and reducing infrastructure costs
+- Engineered real-time WebSocket communication handling 85,000+ daily messages with sub-second latency
+- Performed performance profiling and bottleneck analysis to reduce API latency by 37%
+
+### Full Stack MERN Developer — Tata Consultancy Services (TCS)
+**January 2020 – July 2023 | India**
+
+- Developed and maintained robust web applications using React.js, Node.js, Express.js, and MongoDB supporting 45,000+ active users
+- Built high-performance REST APIs and third-party integrations, improving data fetch speed by 41%
+- Implemented JWT-based authentication, role-based access control, and centralized error handling
+- Increased code coverage to 82% using Jest, React Testing Library, and Cypress
+- Collaborated with product owners and stakeholders to convert business requirements into technical solutions
+- Refactored legacy codebases to improve performance, responsiveness, and maintainability
+- Architected modular microservices with Node.js and Express.js, reducing deployment conflicts and cutting deployment time by 51%
+- Deployed containerized applications to Azure using Docker, speeding up go-live timelines
 
 ---
 
-## 🚀 Featured Projects
+## Education
 
+### Master of Science in Information Science
+**University of Wisconsin–Madison, USA**  
+**May 2025**
 
-### 🔹 **Admin React Dashboard UI (React + Typescript + Tailwind + Chart.js)**  
-A modern, responsive admin dashboard UI built with React, TailwindCSS, reusable components, sidebar navigation, charts, and dark mode support.
-➡ https://admin-react-dash.netlify.app/
-
-
-### 🔹 ** AI Event Organiser **  
-A full-stack event creation and discovery platform built with Next.js, Convex, Clerk Auth, Shadcn UI, Tailwind, and Gemini AI.
-➡ https://ai-spott.netlify.app/
-
-### 🔹 **Pokédex – Load More Pokémon (React + Vite)**  
-Modern Pokédex with load-more pagination and custom utility CSS.  
-➡ https://github.com/tanmaymaity6/load-more-pokemons
-
+### Bachelor of Engineering in Computer Science
+**University of Mumbai, India**  
+**May 2020**
 
 ---
 
-## 🎓 Education
+## What I Work On
 
-**M.S. Information Science — University of Wisconsin–Madison** (2023–2025)  
-GPA: **3.8 / 4.0**  
-Cloud Tech • DB Design • Project Management • Web Development
-
-**B.E. Computer Science — University of Mumbai**  
-GPA: **3.5 / 4.0**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true&theme=radical&rank_icon=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact&theme=radical)
-</div>
-
-
+- Full-stack web applications
+- Cloud-native platforms
+- REST APIs and backend systems
+- Real-time apps with WebSockets
+- CI/CD and deployment automation
+- Frontend architecture and performance optimization
+- Legacy system modernization
 
 ---
 
-## 📫 Connect With Me
+## GitHub Stats
 
-- **Email:** maitytanmay@outlook.com  
-- **LinkedIn:** https://www.linkedin.com/in/tanmay-maity/ 
-- **Portfolio:** https://https://github.com/tanmaymaity6/ 
+![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact)
 
 ---
 
-⭐ *Thanks for visiting my GitHub profile!*  
+## Connect With Me
+
+- GitHub: https://github.com/tanmaymaity6
+- LinkedIn: https://www.linkedin.com/in/tanmay-maity/
+- Email: tanmay@jobsmails.com
+
+---
+
+⭐ Thanks for visiting my profile!
