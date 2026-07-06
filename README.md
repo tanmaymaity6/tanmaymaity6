@@ -1,142 +1,60 @@
 # Hi, I'm Tanmay Maity 👋
 
-### Full Stack Developer | React.js | Next.js | TypeScript | Node.js | AWS | Azure | Docker
+### Full Stack Software Engineer | React.js • Next.js • TypeScript • Node.js | AWS • Azure • Docker
 
-Full Stack Developer with 4+ years of experience building enterprise-grade, cloud-native platforms using React.js, Next.js, TypeScript, and Node.js. I build secure REST APIs, real-time systems with WebSockets, and Docker-containerized applications with CI/CD automation. I have hands-on experience deploying across AWS and Azure, modernizing legacy systems, improving reliability, and delivering scalable applications for high-traffic environments.
-
----
-
-## About Me
-
-- Full Stack Developer with strong frontend and backend experience
-- Skilled in building scalable web applications and cloud-native systems
-- Experienced with AWS, Azure, Docker, Jenkins, and GitHub Actions
-- Focused on performance, clean architecture, security, and maintainable code
-- Passionate about modern web development, system design, and shipping production-ready solutions
+Full Stack Developer with 4+ years of experience building enterprise, cloud-native web platforms in healthcare and global client environments. I work across the stack — React/TypeScript frontends, Node.js/Express REST APIs, MongoDB/PostgreSQL data layers — and ship through Docker-based CI/CD on AWS and Azure. Currently modernizing patient and provider platforms at CVS Health that serve 12,000+ concurrent users.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-- JavaScript (ES6+)
-- TypeScript
-- Node.js
-- Python
-- SQL
-- Java
+**Languages:** JavaScript (ES6+) · TypeScript · Python · Java · SQL
 
-### Frontend
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Redux
-- Context API
+**Frontend:** React.js · Next.js · Redux · Context API · HTML5 · CSS3 · Tailwind CSS · Material UI
 
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-- Hibernate
-- REST APIs
-- WebSockets
-- JWT Authentication
+**Backend:** Node.js · Express.js · REST APIs · WebSockets · JWT · Spring Boot
 
-### Databases
-- MongoDB
-- MySQL
-- PostgreSQL
-- MS SQL Server
+**Databases:** MongoDB · PostgreSQL · MySQL · MS SQL Server
 
-### Cloud & DevOps
-- AWS (Amplify, EC2, S3, Lambda, API Gateway)
-- Azure (App Services, Functions, Blob Storage)
-- Docker
-- Jenkins
-- GitHub Actions
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, API Gateway, Amplify) · Azure · Docker · Jenkins · GitHub Actions
 
-### Testing & Tools
-- Jest
-- React Testing Library
-- Cypress
-- Git
-- Jira
-- Webpack
-- Vite
-- NPM
-- Yarn
+**Testing:** Jest · React Testing Library · Cypress
 
 ---
 
-## Professional Experience
+## 🚀 Featured Projects
 
-### Full Stack Software Engineer — JPMorgan Chase & Co.
-**August 2025 – Present | USA**
+**[speedyBuyWeb](https://github.com/tanmaymaity6/speedyBuyWeb)** — Full-featured e-commerce app: cart and wishlist management, payment integration, and address handling. *React.js, JavaScript*
 
-- Designed and deployed full-stack cloud-native applications using React.js, Node.js, TypeScript, and AWS for a Wealth Management CRM platform serving 12,000+ concurrent users
-- Modernized 4 legacy systems by leading work across architecture, development, testing, deployment, and production support
-- Improved platform reliability by 42% through monitoring, alerting, and observability improvements
-- Automated CI/CD pipelines using Jenkins and GitHub Actions, accelerating release cycles by 48%
-- Built proof-of-concepts for secure authentication and data encryption, helping reduce security incidents
-- Containerized frontend and backend services with Docker, improving portability and reducing infrastructure costs
-- Engineered real-time WebSocket communication handling 85,000+ daily messages with sub-second latency
-- Performed performance profiling and bottleneck analysis to reduce API latency by 37%
+**[socialmedia_project](https://github.com/tanmaymaity6/socialmedia_project)** — Social media application built with TypeScript. *(Add a README with features, screenshots, and setup steps)*
 
-### Full Stack MERN Developer — Tata Consultancy Services (TCS)
-**January 2020 – July 2023 | India**
-
-- Developed and maintained robust web applications using React.js, Node.js, Express.js, and MongoDB supporting 45,000+ active users
-- Built high-performance REST APIs and third-party integrations, improving data fetch speed by 41%
-- Implemented JWT-based authentication, role-based access control, and centralized error handling
-- Increased code coverage to 82% using Jest, React Testing Library, and Cypress
-- Collaborated with product owners and stakeholders to convert business requirements into technical solutions
-- Refactored legacy codebases to improve performance, responsiveness, and maintainability
-- Architected modular microservices with Node.js and Express.js, reducing deployment conflicts and cutting deployment time by 51%
-- Deployed containerized applications to Azure using Docker, speeding up go-live timelines
+**[Accordion-component](https://github.com/tanmaymaity6/Accordion-component)** — Reusable, accessible accordion component in React.
 
 ---
 
-## Education
+## 💼 Currently
 
-### Master of Science in Information Science
-**University of Wisconsin–Madison, USA**  
-**May 2025**
+**Full Stack Software Engineer @ CVS Health** (Aug 2025 – Present)
+Modernizing legacy patient/provider platforms with React, TypeScript, Node.js, and AWS — cutting infrastructure costs 28% and release cycles 48% through Docker and CI/CD automation.
 
-### Bachelor of Engineering in Computer Science
-**University of Mumbai, India**  
-**May 2020**
+**Previously:** Full Stack MERN Developer @ Cognizant (2020 – 2023), delivering 5+ applications for global enterprise clients.
 
----
+**Education:** M.S. Information Science, University of Wisconsin–Madison (2025) · B.E. Computer Science, University of Mumbai (2020)
 
-## What I Work On
-
-- Full-stack web applications
-- Cloud-native platforms
-- REST APIs and backend systems
-- Real-time apps with WebSockets
-- CI/CD and deployment automation
-- Frontend architecture and performance optimization
-- Legacy system modernization
+**Certification:** AWS Certified Cloud Practitioner
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Tanmay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanmaymaity6&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymaity6&layout=compact)
 
 ---
 
-## Connect With Me
+## 📫 Connect
 
-- GitHub: https://github.com/tanmaymaity6
-- LinkedIn: https://www.linkedin.com/in/tanmay-maity/
-- Email: tanmay@jobsmails.com
+- LinkedIn: [linkedin.com/in/tanmay-maity](https://www.linkedin.com/in/tanmay-maity/)
+- Email: maitytanmay888@gmail.com
 
----
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
