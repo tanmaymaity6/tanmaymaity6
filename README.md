@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer | React.js • Next.js • TypeScript • Node.js | AWS • Azure • Docker
 
-Full Stack Developer with 4+ years of experience building enterprise, cloud-native web platforms in healthcare and global client environments. I work across the stack — React/TypeScript frontends, Node.js/Express REST APIs, MongoDB/PostgreSQL data layers — and ship through Docker-based CI/CD on AWS and Azure. Currently modernizing patient and provider platforms at CVS Health that serve 12,000+ concurrent users.
+Full Stack Developer with 5 years of experience building enterprise, cloud-native web platforms in healthcare and global client environments. I work across the stack — React/TypeScript frontends, Node.js/Express REST APIs, MongoDB/PostgreSQL data layers — and ship through Docker-based CI/CD on AWS and Azure. Currently modernizing patient and provider platforms at CVS Health that serve 12,000+ concurrent users.
 
 ---
 
